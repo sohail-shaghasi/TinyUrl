@@ -1,0 +1,50 @@
+2019-04-05 01:27:50.0065 INFO Index medthod invoked
+2019-04-05 01:29:08.0412 INFO New segment : 269730
+2019-04-05 01:31:34.5867 INFO Index medthod invoked
+2019-04-05 01:32:06.5184 INFO New segment : 8b7d26
+2019-04-05 01:36:51.8117 INFO Index medthod invoked
+2019-04-05 01:37:15.0211 INFO New segment : 9c0bec
+2019-04-05 01:45:58.1408 INFO Index medthod invoked
+2019-04-05 01:46:25.4482 INFO New segment : e1ee22
+2019-04-05 02:09:59.0840 INFO Index medthod invoked
+2019-04-05 02:10:08.9830 INFO New segment : e2d4a9
+2019-04-05 02:15:43.2170 INFO Index medthod invoked
+2019-04-05 02:15:50.8603 INFO New segment : d6fd99
+2019-04-05 02:27:05.1678 INFO Index medthod invoked
+2019-04-05 02:27:13.0789 INFO New segment : 3c8e3e
+2019-04-05 02:31:46.5520 INFO Index medthod invoked
+2019-04-05 02:31:53.5500 INFO New segment : a12787
+2019-04-05 02:32:53.0385 INFO Shorten Url : http://localhost:29233/22e567
+2019-04-05 02:33:00.6119 INFO New segment : 922225
+2019-04-05 02:33:11.0275 INFO Index medthod invoked
+2019-04-05 02:33:15.1880 INFO New segment : 23c729
+2019-04-05 02:33:25.1120 INFO Shorten Url : http://localhost:29233/27617c
+2019-04-05 02:34:08.7398 INFO Long Url : https://www.youtube.com/watch?v=iiTyGARrw74
+2019-04-05 02:36:01.6823 INFO Long Url : https://www.youtube.com/watch?v=iiTyGARrw74
+2019-04-05 02:36:28.5764 INFO LongURL : https://www.youtube.com/watch?v=iiTyGARrw74
+2019-04-05 02:42:40.8604 INFO Index medthod invoked
+2019-04-05 02:43:08.0152 INFO Long Url : https://www.youtube.com/watch?v=iiTyGARrw74
+2019-04-05 02:43:08.1661 INFO LongURL : https://www.youtube.com/watch?v=iiTyGARrw74
+2019-04-05 02:43:14.2787 INFO Index medthod invoked
+2019-04-05 02:43:17.6227 INFO New segment : 9b125f
+2019-04-05 02:43:31.1128 INFO New segment : 591f06
+2019-04-05 02:43:45.6583 INFO New segment : 7a8d85
+2019-04-05 02:43:51.5107 INFO Index medthod invoked
+2019-04-05 02:43:56.0560 INFO New segment : 3835d5
+2019-04-05 02:44:39.0863 INFO New segment : 94dfef
+2019-04-05 02:45:16.2928 INFO Index medthod invoked
+2019-04-05 02:45:55.3832 INFO New segment : fe36e8
+2019-04-05 02:47:42.3448 INFO Index medthod invoked
+2019-04-05 02:47:55.7296 INFO New segment : 6557dc
+2019-04-05 02:47:56.0864 INFO Shorten Url : http://localhost:29233/22e567
+2019-04-05 02:48:30.0384 ERROR URL Not found
+2019-04-05 02:48:30.0444 INFO LongURL : https://github.com/aspnetboilerplate/aspnetboilerplate/issues/1396
+2019-04-05 22:46:46.8816 INFO Index medthod invoked
+2019-04-05 22:47:03.1358 INFO New segment : b5117d
+2019-04-05 22:47:03.9143 ERROR URL Not found
+2019-04-05 22:47:04.0962 INFO Shorten Url : http://localhost:29233/b44993
+2019-04-05 22:47:10.3863 INFO Index medthod invoked
+2019-04-05 22:47:14.3849 INFO New segment : bc7bc5
+2019-04-05 22:47:14.5458 INFO Shorten Url : http://localhost:29233/98591b
+2019-04-05 22:47:29.9955 INFO Long Url : https://www.google.com/
+2019-04-05 22:47:30.0954 INFO LongURL : https://www.google.com/

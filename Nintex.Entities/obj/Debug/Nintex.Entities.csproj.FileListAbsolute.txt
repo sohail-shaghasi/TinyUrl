@@ -1,0 +1,6 @@
+C:\Users\sohail\source\repos\Nintex_TinyUrl\Nintex.Entities\bin\Debug\Nintex.Entities.dll
+C:\Users\sohail\source\repos\Nintex_TinyUrl\Nintex.Entities\bin\Debug\Nintex.Entities.pdb
+C:\Users\sohail\source\repos\Nintex_TinyUrl\Nintex.Entities\obj\Debug\Nintex.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sohail\source\repos\Nintex_TinyUrl\Nintex.Entities\obj\Debug\Nintex.Entities.dll
+C:\Users\sohail\source\repos\Nintex_TinyUrl\Nintex.Entities\obj\Debug\Nintex.Entities.pdb
+C:\Users\sohail\source\repos\Nintex_TinyUrl\Nintex.Entities\obj\Debug\Nintex.Entities.csprojAssemblyReference.cache
